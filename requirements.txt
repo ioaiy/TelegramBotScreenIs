@@ -1,6 +1,5 @@
 decorator==4.4.2
 pyTelegramBotAPI==3.7.1
-requests==2.7.0
 selenium==3.141.0
 six==1.15.0
 telebot==0.0.3
