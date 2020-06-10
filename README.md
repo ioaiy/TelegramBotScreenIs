@@ -1,2 +1,3 @@
-# TelegramBot_ScreenIs
-This Bot can make screenshot web site page
+# ScreenIs
+This TG Bot can make screenshot web site page
+![Screenshot](https://github.com/ioaiy/TelegramBotScreenIs/blob/master/screenis.jpg)
